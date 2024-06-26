@@ -8,5 +8,10 @@ public class Runner {
 
         //This commit will be v5....
 
+
+
+     //This will be conflict. Because i will add some notes on same line in the remote project
+
+
     }
 }
